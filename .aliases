@@ -6,7 +6,7 @@ alias ....="cd ../../.."
 alias .....="cd ../../../.."
 alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
-alias gohome ='cd ~'
+alias gohome='cd ~'
 
 # programs
 alias subl='open -a "Sublime Text 2"'
