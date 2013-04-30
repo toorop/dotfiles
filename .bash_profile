@@ -25,6 +25,9 @@ export LANG="fr_FR"
 # You could just use `-g` instead, but I like being explicit
 complete -W "NSGlobalDomain" defaults
 
-# Golang
+# Go
 export GOPATH=$HOME/go
+export GOROOT=$HOME/go
 export PATH=$GOPATH/bin:$PATH
+#export GOARCH=amd64
+#export GOOS=darwin
