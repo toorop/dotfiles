@@ -31,3 +31,6 @@ export GOPATH=$HOME/Projects/go
 export PATH=$GOPATH/bin:$PATH
 export GOARCH=amd64
 export GOOS=darwin
+
+# Python
+export PYTHONPATH=/usr/local/lib/python2.7/site-packages
